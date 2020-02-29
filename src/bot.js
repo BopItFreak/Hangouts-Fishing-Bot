@@ -13,7 +13,7 @@ module.exports = class Bot {
     this.creds = async function() {
       return {
         auth: async function() {
-            return "4/vAG1jcGgcdldRimQXfMegrODMa8S1tR2FK5a0H7n3bFdFrPb1OdU7kJgrSurCmZTpSw6cr2iD1bI3pmUeYto2rA"//"4/tAHhFw47J5rUhCyy-KaV2i3Kf9tGXD9i-2Z4A-LfYJTnSjDLhte4uixjSVXpfvnV7VRHoyVBESH6r90Z7l8XEcs"//
+            return "" //put your token here
         }
       };
     };
