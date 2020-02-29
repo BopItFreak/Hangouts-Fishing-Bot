@@ -1,0 +1,398 @@
+{
+  "caught": {
+    "107660933331493000998": {
+      "name": "August Berchelmann",
+      "_id": "107660933331493000998",
+      "The Golden Fish": {
+        "name": "The Golden Fish",
+        "howmany": 1,
+        "size": "Large"
+      }
+    },
+    "116005455022286378551": {
+      "Pacific trout": {
+        "name": "Pacific trout",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Pearl danio": {
+        "name": "Pearl danio",
+        "howmany": 2,
+        "size": "medium-sized"
+      },
+      "Torrent fish": {
+        "name": "Torrent fish",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "kekklefruit": {
+        "name": "kekklefruit",
+        "howmany": 3,
+        "size": "idk"
+      },
+      "Speckled trout": {
+        "name": "Speckled trout",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Sarcastic fringehead": {
+        "name": "Sarcastic fringehead",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Dusky Shark - Carcharhinus obscurus": {
+        "name": "Dusky Shark - Carcharhinus obscurus",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Viperfish": {
+        "name": "Viperfish",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Mandarin fish": {
+        "name": "Mandarin fish",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Rockfish": {
+        "name": "Rockfish",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Bronze corydoras": {
+        "name": "Bronze corydoras",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Brown trout": {
+        "name": "Brown trout",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Snipe eel": {
+        "name": "Snipe eel",
+        "howmany": 1,
+        "size": "medium-sized"
+      },
+      "Flying fish": {
+        "name": "Flying fish",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Cod icefish": {
+        "name": "Cod icefish",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Dhufish": {
+        "name": "Dhufish",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Eagle ray": {
+        "name": "Eagle ray",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Bengal danio": {
+        "name": "Bengal danio",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Loach minnow": {
+        "name": "Loach minnow",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Tailor": {
+        "name": "Tailor",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Thread-tail": {
+        "name": "Thread-tail",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Great white shark": {
+        "name": "Great white shark",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Hairtail": {
+        "name": "Hairtail",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Spikefish": {
+        "name": "Spikefish",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Bonefish": {
+        "name": "Bonefish",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Redhorse sucker": {
+        "name": "Redhorse sucker",
+        "howmany": 1,
+        "size": "medium-sized"
+      },
+      "Bluntnose minnow": {
+        "name": "Bluntnose minnow",
+        "howmany": 1,
+        "size": "giant"
+      },
+      "Grunter": {
+        "name": "Grunter",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Taimen": {
+        "name": "Taimen",
+        "howmany": 1,
+        "size": "small"
+      }
+    },
+    "117371722551513388262": {
+      "Buri": {
+        "name": "Buri",
+        "howmany": 1,
+        "size": "giant"
+      }
+    },
+    "110910262379186398461": {
+      "_id": "110910262379186398461",
+      "name": "Unknown",
+      "Canary rockfish": {
+        "name": "Canary rockfish",
+        "howmany": 1,
+        "size": "Golden"
+      }
+    },
+    "102992839853933513181": {
+      "_id": "102992839853933513181",
+      "name": "Fiona Docherty",
+      "Ridgehead": {
+        "name": "Ridgehead",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Manta ray": {
+        "name": "Manta ray",
+        "howmany": 1,
+        "size": "rather small"
+      }
+    },
+    "106845303189757508630": {
+      "Sandbar Shark - Carchathinus plumbeus": {
+        "name": "Sandbar Shark - Carchathinus plumbeus",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "name": "Clara Hennessey",
+      "_id": "106845303189757508630",
+      "Northern lampfish": {
+        "name": "Northern lampfish",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Frilled shark": {
+        "name": "Frilled shark",
+        "howmany": 1,
+        "size": "giant"
+      },
+      "SUPER AWESOME FISH": {
+        "name": "SUPER AWESOME FISH",
+        "howmany": 5,
+        "size": "HUMUNGO"
+      },
+      "Cusk": {
+        "name": "Cusk",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Danio": {
+        "name": "Danio",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Barb": {
+        "name": "Barb",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Sea toad": {
+        "name": "Sea toad",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Pacific viperfish": {
+        "name": "Pacific viperfish",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Black scalyfin": {
+        "name": "Black scalyfin",
+        "howmany": 1,
+        "size": "giant"
+      },
+      "kekklefruit": {
+        "name": "kekklefruit",
+        "howmany": 9,
+        "size": "idk"
+      },
+      "Devario": {
+        "name": "Devario",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Silver dollar": {
+        "name": "Silver dollar",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Tadpole fish": {
+        "name": "Tadpole fish",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Blue shark": {
+        "name": "Blue shark",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Roundhead": {
+        "name": "Roundhead",
+        "howmany": 1,
+        "size": "medium-sized"
+      },
+      "Raccoon butterfly fish": {
+        "name": "Raccoon butterfly fish",
+        "howmany": 1,
+        "size": "Golden"
+      },
+      "Kokopu": {
+        "name": "Kokopu",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Pineconefish": {
+        "name": "Pineconefish",
+        "howmany": 1,
+        "size": "microscopic"
+      }
+    },
+    "109443959754486076158": {
+      "Sleeper shark": {
+        "name": "Sleeper shark",
+        "howmany": 1,
+        "size": "medium-sized"
+      },
+      "kekklefruit": {
+        "name": "kekklefruit",
+        "howmany": 2,
+        "size": "idk"
+      },
+      "Boxfish": {
+        "name": "Boxfish",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Stingray": {
+        "name": "Stingray",
+        "howmany": 1,
+        "size": "large"
+      }
+    },
+    "116362372649706207645": {
+      "_id": "116362372649706207645",
+      "name": "Olivia Docherty"
+    },
+    "109474142017917801729": {
+      "_id": "109474142017917801729",
+      "name": "Frankie Schiavo",
+      "SUPER AWESOME FISH": {
+        "name": "SUPER AWESOME FISH",
+        "howmany": 1,
+        "size": "HUMUNGO"
+      },
+      "Triplefin blenny": {
+        "name": "Triplefin blenny",
+        "howmany": 1,
+        "size": "Golden"
+      }
+    },
+    "101061701489928634822": {
+      "_id": "101061701489928634822",
+      "name": "August Berchelmann",
+      "Harelip sucker": {
+        "name": "Harelip sucker",
+        "howmany": 1,
+        "size": "Golden"
+      }
+    },
+    "104057376444052361144": {
+      "Chub": {
+        "name": "Chub",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "Stingfish": {
+        "name": "Stingfish",
+        "howmany": 1,
+        "size": "microscopic"
+      },
+      "Collared dogfish": {
+        "name": "Collared dogfish",
+        "howmany": 1,
+        "size": "giant"
+      }
+    },
+    "102756633009024766601": {
+      "_id": "102756633009024766601",
+      "name": "Sean Wilder",
+      "Icefish": {
+        "name": "Icefish",
+        "howmany": 1,
+        "size": "medium-sized"
+      },
+      "Warty angler": {
+        "name": "Warty angler",
+        "howmany": 1,
+        "size": "rather small"
+      },
+      "Black sea bass": {
+        "name": "Black sea bass",
+        "howmany": 1,
+        "size": "small"
+      },
+      "Loach minnow": {
+        "name": "Loach minnow",
+        "howmany": 1,
+        "size": "large"
+      },
+      "Threadfin": {
+        "name": "Threadfin",
+        "howmany": 1,
+        "size": "rather large"
+      },
+      "California halibut": {
+        "name": "California halibut",
+        "howmany": 1,
+        "size": "microscopic"
+      }
+    },
+    "100610739582353683644": {
+      "_id": "100610739582353683644",
+      "name": "John Paul Underhill",
+      "Hillstream loach": {
+        "name": "Hillstream loach",
+        "howmany": 1,
+        "size": "large"
+      }
+    }
+  }
+}
